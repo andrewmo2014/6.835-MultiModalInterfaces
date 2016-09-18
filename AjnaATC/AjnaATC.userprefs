@@ -1,0 +1,56 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LeapMotion+OVR/SystemWipe/SystemWipeRecognizerListener.cs">
+    <Files>
+      <File FileName="Assets/LeapMotion/Scripts/Hands/RigidFinger.cs" Line="115" Column="78" />
+      <File FileName="Assets/Scripts/GestRecognizer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneUserControl4Axis.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Vehicles/Aircraft/Scripts/LeapFly.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ReticleText.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/HandController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Vehicles/Aircraft/Scripts/ChangeMaterial.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneAiControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Cameras/Scripts/PivotBasedCameraRig.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion+OVR/SystemWipe/QuickSwitcher.cs" Line="17" Column="46" />
+      <File FileName="Assets/SampleScenes/Scripts/CameraSwitch.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Cameras/Scripts/ProtectCameraFromWallClip.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Cameras/Scripts/AutoCam.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Reticle.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LoadLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion+OVR/Widgets/Scripts/DataBinderExamples/SliderDataBinder.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneControlSurfaceAnimator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Vehicles/Aircraft/Scripts/LandingGear.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneUserControl2Axis.cs" Line="1" Column="1" />
+      <File FileName="Assets/SampleScenes/Scripts/LevelReset.cs" Line="1" Column="1" />
+      <File FileName="Assets/SampleScenes/Scripts/ParticleSceneControls.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion+OVR/SystemWipe/SystemWipeRecognizerListener.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/DemoResources/Scripts/ImageRetrieverTypes.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/LeapImageRetriever.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion+OVR/SystemWipe/SystemWipeRecognizerNative.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Cameras/Scripts/FreeLookCam.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Cameras/Scripts/TargetFieldOfView.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/Hands/FingerModel.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/Hands/PolyFinger.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/Hands/DebugFinger.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/Hands/DebugHand.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/Hands/SelectionFinger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Cameras/CameraGuidelines.txt" Line="1" Column="1" />
+      <File FileName="Assets/MAPNAV/Scripts/MapNav.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/2D/Scripts/CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/Hands/RigidHand.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/Hands/SkeletalHand.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/Hands/HandModel.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/Hands/RiggedFinger.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/Hands/RiggedHand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Utility/InputManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/OVR/Scripts/OVRCameraRig.cs" Line="1" Column="1" />
+      <File FileName="Assets/InputManager.cs" Line="21" Column="33" />
+      <File FileName="Assets/Standard Assets/Cameras/Scripts/AbstractTargetFollower.cs" Line="4" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
